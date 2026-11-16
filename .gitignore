@@ -1,0 +1,23 @@
+
+# Raw datasets
+*.csv
+*.xlsx
+*.xls
+
+# Database exports and backups
+*.sql.backup
+*.dump
+*.bak
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Environment and credentials
+.env
+.env.*
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
